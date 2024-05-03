@@ -1,0 +1,14 @@
+{
+  "name": "javascript-question-board",
+  "version": "1.0.0",
+  "description": "This is a Question Board challenge",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "scripts": {
+    "compile:sass": "node-sass ./sass/main.scss ./assets/css/style.css -w"
+  },
+  "author": "Vo Tuan Huy",
+  "license": "ISC"
+}
